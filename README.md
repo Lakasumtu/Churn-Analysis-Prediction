@@ -20,7 +20,7 @@ Prediction of Churn Classification of E-commerce Customer.
 <h3 align="center">Capstone 3 - Customer Churn Analysis</h3>
 
   <p align="center">
-    Sebuah program sederhana untuk melakukan cleaning data
+    Sebuah program sederhana untuk melakukan prediksi churn e-commerce customer.
     <br />
     <a href=https://github.com/Lakasumtu/Capstone-1-Data-Internal-Karyawan><strong>Explore the docs »</strong></a>
     <br />
