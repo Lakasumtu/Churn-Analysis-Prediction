@@ -17,7 +17,7 @@ Prediction of Churn Classification of E-commerce Customer.
 
 
 
-<h3 align="center">Capstone 3 - Customer Churn Analysis</h3>
+<h3 align="center">Customer Churn Analysis</h3>
 
   <p align="center">
     Sebuah program sederhana untuk melakukan prediksi churn e-commerce customer.
