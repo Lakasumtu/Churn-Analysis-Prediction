@@ -38,7 +38,49 @@ Prediction of Churn Classification of E-commerce Customer.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project ini merupakan sebuah syarat dalam menyelesaikan modul 3 dari program bootcamp di Purwadhika.
+# E-commerce Customer Churn Analysis
+
+This project aims to analyze customer churn in an e-commerce platform to identify customer characteristics that are more likely to churn. The goal is to develop a machine learning model to predict which customers are likely to churn and provide actionable insights to reduce customer churn.
+
+## Dataset
+
+The dataset used for this analysis is the [E-commerce Customer Churnr Dataset](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction) from Kaggle, which contains information on user behavior on a multi-category e-commerce platform over a period of 7 months.
+
+## Analysis
+
+The main analysis performed in this project includes:
+
+- Exploratory data analysis to understand the characteristics of the dataset
+- Data cleaning and preprocessing to prepare the dataset for modeling
+- Feature engineering to create new variables for modeling
+- Building machine learning models to predict customer churn
+- Evaluating model performance and selecting the best model
+
+## Results
+
+The analysis revealed the following insights:
+
+- Customers who have made fewer purchases and spent less money are more likely to churn
+- Customers who have longer session durations and who have viewed more pages are less likely to churn
+- The logistic regression model with a balanced dataset achieved the highest accuracy (85%) in predicting customer churn
+
+## Conclusion
+
+Conclusions are delivered in jupiter
+
+## Future Work
+
+Future work can include:
+
+- Fine-tuning the model hyperparameters to improve model performance
+- Incorporating external data sources such as weather data or economic indicators to further improve model performance
+- Developing a web application to allow the platform's customer service representatives to easily input new customer information and obtain model predictions
+
+## Contact
+
+If you have any questions or feedback, please don't hesitate to contact us at information below.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
