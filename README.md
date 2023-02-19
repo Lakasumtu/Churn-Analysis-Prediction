@@ -95,22 +95,6 @@ If you have any questions or feedback, please don't hesitate to contact us at in
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-Pada program ini terdapat beberapa pengolahan data dan rekomendasi bisnis.
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Dalam program ini terdapat 3 langkah utama yaitu:
-1. Data Understanding
-2. Data Cleaning
-3. Data Findings
-4. Model Building
-
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
